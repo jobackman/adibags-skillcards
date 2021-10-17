@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: AdiBags - Skillcards
+## Version: 0
+## Author:
+## Notes:
+## X-Date:
+## X-Website:
+## X-Category: Bags & Inventory
+## Dependencies: AdiBags
+
+AdiBags_Skillcards.lua
